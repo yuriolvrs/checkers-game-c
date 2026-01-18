@@ -39,7 +39,7 @@ the minimum requirements.
 - Platform: Terminal / Command Line
 
 ## Project Context
-This project was developed as part of CCPROG1 - Logic Formulation and Introductory Programming, an introductory programming course at De La Salle University.
+This project was developed as part of **CCPROG1 - Logic Formulation and Introductory Programming**, an introductory programming course at De La Salle University.
 The implementation followed strict constraints, including:
 - No global or static variables
 - No `goto`, `exit`, or premature `return` statements
