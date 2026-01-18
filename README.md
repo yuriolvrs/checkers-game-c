@@ -6,7 +6,7 @@ The program supports two-player turn-based gameplay with strict rule enforcement
 capture mechanics, automated multi-captures, multiple win conditions, and score tracking.
 
 This project emphasizes modular program design, state management without global variables,
-and robust input validation.
+and robust input validation. It is the
 
 ## Features
 - 8×8 checkerboard using ASCII representation (black squares only)
@@ -39,7 +39,7 @@ the minimum requirements.
 - Platform: Terminal / Command Line
 
 ## Project Context
-This project was developed as part of an introductory programming course.
+This project was developed as part of CCPROG1 - Logic Formulation and Introductory Programming, an introductory programming course at De La Salle University.
 The implementation followed strict constraints, including:
 - No global or static variables
 - No `goto`, `exit`, or premature `return` statements
@@ -47,7 +47,7 @@ The implementation followed strict constraints, including:
 - Modular, function-based design with parameter passing
 - Manual memory and state management using arrays
 
-The original project specification is available in `docs/project-specification.pdf`.
+The original project specification is available in `specs/MP - Simple Checkers.pdf`.
 
 ## Design Highlights
 - Board state is represented using a 2D array to simplify coordinate tracking
